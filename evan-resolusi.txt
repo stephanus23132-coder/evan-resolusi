@@ -2,3 +2,5 @@ evan-resolusi
 - makan
 - mandi
 - tidur
+- main
+- nonton
